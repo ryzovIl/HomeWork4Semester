@@ -3,6 +3,6 @@ project(HomeWork4Semester)
 
 set(CMAKE_CXX_STANDARD 14)
 
-add_executable(HomeWork4Semester main.cpp SomeClass.h SomeClass.cpp)
+add_executable(HomeWork4Semester main.cpp)
 
 
