@@ -1,8 +1,7 @@
 #include <iostream>
-#include <vector>
+#include <iomanip>
 
 int main(){
-
 
     return 0;
 }
